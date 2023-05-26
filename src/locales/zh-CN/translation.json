@@ -1,0 +1,10 @@
+{
+  "title": "多语言应用",
+  "greeting": "你好！",
+  "button": "切换语言",
+  "name": "姓名",
+  "username": "用户名",
+  "email": "电子邮件",
+  "phone": "电话",
+  "website": "网站"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Multilanguage App",
+  "greeting": "Hello!",
+  "button": "Switch Language",
+  "name": "Name",
+  "username": "Username",
+  "email": "Email",
+  "phone": "Phone",
+  "website": "Website"
+}
